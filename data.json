@@ -1,0 +1,13 @@
+{
+    "loginInfo": [{
+        "username": "admin",
+        "password": "123123"
+    }],
+    "updateInfo": {
+        "title": "说明",
+        "subTitle": "版本：bate1.0.0",
+        "infoList": ["这是一个测试网站的基础框架","简单使用了router,vuex,stylus,element-UI等","后面会持续更新"],
+        "buttonText": "ok，知道啦~~~",
+        "updateTime": "更新时间：2019-06-18 10:00:00"
+    }
+}
